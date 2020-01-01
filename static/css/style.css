@@ -34,7 +34,8 @@ h1, h2, h3, h6 {
 }
 
 #lolcatImage {
-    max-width:30em
+    max-width:30em;
+    max-height:400px;
 }
 
 blockquote {
